@@ -1,0 +1,47 @@
+slot,variety,varietyName,dishName,qty,price
+1,1,Tiffin,Dosa,1,40
+1,1,Tiffin,Poori,1,40
+1,1,Tiffin,Pongal,1,50
+1,1,Tiffin,Idli,1,30
+1,1,Tiffin,Vada,1,20
+
+2,1,Meals,Meals,1,120
+2,1,Meals,Special Meals,1,150
+2,1,Meals,Mini Meals,1,100
+
+2,2,Biryani,Veg Biryani,1,150
+2,2,Biryani,Mutton Biryani,1,250
+2,2,Biryani,Chicken Biryani,1,200
+
+2,3,Variety Rice,Lemon Rice,1,80
+2,3,Variety Rice,Curd Rice,1,70
+2,3,Variety Rice,Tomato Rice,1,80
+
+3,1,Ice Cream,Vanilla Ice Cream,1,60
+3,1,Ice Cream,Chocolate Ice Cream,1,70
+3,1,Ice Cream,Strawberry Ice Cream,1,70
+
+3,2,Juice,Apple Juice,1,80
+3,2,Juice,Orange Juice,1,80
+3,2,Juice,Watermelon Juice,1,90
+
+3,3,Snacks,Samosa,1,20
+3,3,Snacks,Vada,1,15
+3,3,Snacks,Bajji,1,15
+3,3,Snacks,Pani Poori,1,30
+
+4,1,Roti,Parota,1,40
+4,1,Roti,Naan,1,50
+4,1,Roti,Butter Naan,1,60
+4,1,Roti,Poori,1,40
+4,1,Roti,Chapathi,1,30
+
+4,2,Dosa,Dosa,1,50
+4,2,Dosa,Special Dosa,1,80
+4,2,Dosa,Onion Dosa,1,70
+4,2,Dosa,Masala Dosa,1,80
+
+4,3,Fried Rice,Veg Fried Rice,1,120
+4,3,Fried Rice,Chicken Fried Rice,1,150
+4,3,Fried Rice,Mushroom Fried Rice,1,140
+4,3,Fried Rice,Paneer Fried Rice,1,150
